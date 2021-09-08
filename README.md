@@ -1,6 +1,5 @@
 - Hi, I’m Subash @Subash117
 - Interested in Computer Science & Tech
-- I’m currently learning Java Programming Language
 - Reach me on Instagram - https://www.instagram.com/captain._.alpha/
 
 <!---
